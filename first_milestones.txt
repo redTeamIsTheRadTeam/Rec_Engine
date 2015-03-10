@@ -1,0 +1,23 @@
+So, it appears that I've been given the task of making sure that everybody can access the GitHub account and knows how to use it, as well as setting milestones.
+
+GitHub Account(Case Sensitive): redTeamIsTheRadTeam
+Password: (please see the wiki, first milestones)
+
+This login information is current as of 3/10.
+
+A week ago I pushed a readme and a changelog. The readme can wait until the end.
+
+I'm assuming that everybody can use GitHub in some capacity as far as pushing commits.
+
+If you don't know how to use GitHub, send me your OS information (my contact info is in a separate wiki page. Blackboard Mail also works for me) so it can be determined which is the best method for you to use. Personally, I use a GUI client for Windows primarily. Whenever I'm running Debian, I'll push from the terminal.
+
+In any event, if you do know how to use GitHub, update the changelog (I'm going to do an update after writing this), just to see who can.
+
+At the class meeting today, everybody recieved tasks. Upon a successful test, you should probably push your code to the repository. The first milestone should be every class capable of running at least by itself within a test method or driver class. If you were not in class today (3/10), I think there were still some unassigned tasks.
+
+There is also a team Gmail account, set up by Josh (who likewise provided the GitHub account):
+
+Gmail Account:   (please see the wiki, first milestones)
+Password:   (please see the wiki, first milestones)
+
+There is a draft in the drafts folder than can be updated with notes or other communication.

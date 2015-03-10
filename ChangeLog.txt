@@ -1,0 +1,8 @@
+2015-03-05 cpd (cody) 
+	* pushed readme and this changelog.
+	* This file can be used to elaborate on changes more than commit comments.
+
+2015-03-10 cpd (cody) 
+	* added the content of new wiki entry.
+	* added .txt file extension so this log can be opened better
+	* removed extensionless changelog
