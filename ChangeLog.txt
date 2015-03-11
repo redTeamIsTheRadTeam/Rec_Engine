@@ -6,3 +6,7 @@
 	* added the content of new wiki entry.
 	* added .txt file extension so this log can be opened better
 	* removed extensionless changelog
+	
+	
+2015-03-11 cpd (cody) 
+	*performing a sync test
