@@ -1,15 +1,19 @@
-2015-03-05 cpd (cody) 
+2015-03-05 (cody) 
 	* pushed readme and this changelog.
 	* This file can be used to elaborate on changes more than commit comments.
 
-2015-03-10 cpd (cody) 
+2015-03-10 (cody) 
 	* added the content of new wiki entry.
 	* added .txt file extension so this log can be opened better
 	* removed extensionless changelog
 	
 	
-2015-03-11 cpd (cody) 
+2015-03-11 (cody) 
 	*performing a sync test
 
-2015-03-11 cpd(Ryan)
+2015-03-11 (Ryan)
 	*performing a sync test
+
+2015-03-11 (cody, 2nd commit 3/11) 
+	*Verified sync when clone is behind master 
+	*removed dummy text file used for sync test
