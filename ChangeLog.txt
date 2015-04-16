@@ -17,3 +17,7 @@
 2015-03-11 (cody, 2nd commit 3/11) 
 	*Verified sync when clone is behind master 
 	*removed dummy text file used for sync test
+	
+2015-04-16; 11:45:33 (Jon)
+	*Updated wiki to reflect loss of members
+	*Coallated wiki information for clarity
