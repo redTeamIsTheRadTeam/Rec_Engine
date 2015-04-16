@@ -21,3 +21,4 @@
 2015-04-16; 11:45:33 (Jon)
 	*Updated wiki to reflect loss of members
 	*Coallated wiki information for clarity
+	*Removed depricated files from lost members on github master
